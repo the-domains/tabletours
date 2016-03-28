@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tabletours]]></title>
+        <description><![CDATA[tabletours]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 07:59:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/985c1e99-c19b-4452-92e1-052f7881d153.jpg">]]></description>
+            <link>undefinedwe-arrange-food-and-wine-tours-in-cape-town-for-small-and-me/index.html</link>
+            <guid isPermaLink="false">d0a26364-b33a-422d-b00d-a9de97b885cf</guid>
+            <pubDate>Mon, 28 Mar 2016 07:59:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
